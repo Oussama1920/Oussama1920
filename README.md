@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oussama1920
-- 👀 I’m interested in C,C++ and Linux
-- 🌱 I’m currently learning GoLang
+- 👀 I’m interested in Golang and DevOps
+- 🌱 I’m currently learning Ansible,Vault and argoCD
 - 💞️ I’m looking to collaborate on Full Stack Go
-- 📫 How to reach me ...
+- 📫 How to reach me : linkedin https://www.linkedin.com/in/oussama-djebbi/
 
 <!---
 Oussama1920/Oussama1920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
